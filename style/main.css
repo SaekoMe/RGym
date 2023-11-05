@@ -3,11 +3,11 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
-a {
+.links {
     color: #ffffff;
 }
 
-h1 {
+.bold_heading {
     font-size: 60px;
     font-weight: 700;
     color: #ffffff;
@@ -17,31 +17,27 @@ h1 {
     color: #A92A1D;
 }
 
-.bold_text {
+.heading {
     font-size: 48px;
     font-weight: 600;
     color: #ffffff;
 }
 
-h2 {
-    font-size: 36px;
+.bold {
+    font-size: 24px;
     font-weight: 600;
     color: #ffffff;
 }
 
-p {
+
+.paragraph {
     color: #ffffff;
     font-weight: 400;
     font-size: 16px;
 }
 
-b {
-    color: #ffffff;
-    font-weight: 600;
-    font-size: 24px;
-}
 
-footer {
+.footer {
     color: #ffffff;
     font-family: 'Poppins', sans-serif;
 }
@@ -54,6 +50,7 @@ footer {
 .footer-links {
     font-weight: 500;
     font-size: 18px;
+    color: #ffffff;
 }
 
 .footer-text {
@@ -61,6 +58,6 @@ footer {
     font-size: 18px;
 }
 
-.R {
+.r {
     color: #A92A1D;
 }
